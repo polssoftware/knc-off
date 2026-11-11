@@ -1,0 +1,3 @@
+Release build completed with exit code 0 using cmake --build work/build-v12 --config Release --parallel 1 -- /nr:false.
+Windows file/product version: 1.0.0
+VST3 moduleinfo version: 1.0.0

@@ -1,0 +1,168 @@
+Start testing: Nov 11 12:32 Pacific Standard Time
+----------------------------------------------------------
+1/4 Testing: EffectFeatures
+1/4 Test: EffectFeatures
+Command: "C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12/Release/EffectsTests.exe"
+Directory: C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12
+"EffectFeatures" start time: Nov 11 12:32 Pacific Standard Time
+Output:
+----------------------------------------------------------
+PASS: wet-only ducking timing/depth/off, unchanged feedback/tails, delay modes, reverb pre-delay/types, compressor modes, transient modes, saturation and linked BIT controls
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"EffectFeatures" end time: Nov 11 12:32 Pacific Standard Time
+"EffectFeatures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: FactoryHeadroom
+2/4 Test: FactoryHeadroom
+Command: "C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12/Release/BankTests.exe"
+Directory: C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12
+"FactoryHeadroom" start time: Nov 11 12:32 Pacific Standard Time
+Output:
+----------------------------------------------------------
+48000 Drums / Punch peak=0.50924
+48000 Drums / Glue peak=0.510976
+48000 Drums / Crunch peak=0.50242
+48000 Drums / Room peak=0.515532
+48000 Drums / Broken peak=0.467427
+48000 Drums / Smash peak=0.512428
+48000 Drums / Ripped Tape peak=0.508641
+48000 Drums / Industrial peak=0.447823
+48000 Drums / Broken Room peak=0.510894
+48000 Drums / Fuzz Bus peak=0.513771
+48000 Kick / Weight peak=0.503694
+48000 Kick / Click peak=0.512247
+48000 Kick / Drive peak=0.512585
+48000 Kick / Deep peak=0.488077
+48000 Kick / LoFi peak=0.451501
+48000 Kick / Concrete peak=0.502426
+48000 Kick / Furnace peak=0.462832
+48000 Kick / Sub Hammer peak=0.485979
+48000 Kick / Crushed Punch peak=0.497928
+48000 Kick / Rust peak=0.510923
+48000 Bass / Warm peak=0.517472
+48000 Bass / Round peak=0.515487
+48000 Bass / Growl peak=0.515685
+48000 Bass / Wide peak=0.502886
+48000 Bass / Pluck peak=0.51873
+48000 Bass / Torn Speaker peak=0.51646
+48000 Bass / Acid Grind peak=0.485395
+48000 Bass / Fuzz Octave peak=0.42312
+48000 Bass / Metal Bass peak=0.512788
+48000 Bass / Wrecked Pluck peak=0.510765
+48000 Vocals / Lift peak=0.48925
+48000 Vocals / Intimate peak=0.517412
+48000 Vocals / Airy peak=0.501472
+48000 Vocals / Double peak=0.51649
+48000 Vocals / Radio peak=0.505818
+48000 Vocals / Megaphone peak=0.51585
+48000 Vocals / Razor Double peak=0.483881
+48000 Vocals / Octave Dirt peak=0.465737
+48000 Vocals / Burnt Radio peak=0.514661
+48000 Vocals / Ghost Drive peak=0.506948
+48000 Synths / Shine peak=0.515082
+48000 Synths / Wide peak=0.503623
+48000 Synths / Plush peak=0.518731
+48000 Synths / Retro peak=0.48716
+48000 Synths / Motion peak=0.49035
+48000 Synths / Circuit Melt peak=0.504353
+48000 Synths / Broken Arcade peak=0.501528
+48000 Synths / Fuzz Cloud peak=0.481907
+48000 Synths / Acid Storm peak=0.514324
+48000 Synths / Digital Fire peak=0.514387
+96000 Drums / Punch peak=0.517515
+96000 Drums / Glue peak=0.389131
+96000 Drums / Crunch peak=0.518082
+96000 Drums / Room peak=0.448319
+96000 Drums / Broken peak=0.433621
+96000 Drums / Smash peak=0.498832
+96000 Drums / Ripped Tape peak=0.520445
+96000 Drums / Industrial peak=0.516871
+96000 Drums / Broken Room peak=0.482488
+96000 Drums / Fuzz Bus peak=0.513217
+96000 Kick / Weight peak=0.510869
+96000 Kick / Click peak=0.44977
+96000 Kick / Drive peak=0.495862
+96000 Kick / Deep peak=0.511876
+96000 Kick / LoFi peak=0.442001
+96000 Kick / Concrete peak=0.517627
+96000 Kick / Furnace peak=0.515896
+96000 Kick / Sub Hammer peak=0.526219
+96000 Kick / Crushed Punch peak=0.512136
+96000 Kick / Rust peak=0.512662
+96000 Bass / Warm peak=0.517733
+96000 Bass / Round peak=0.502721
+96000 Bass / Growl peak=0.507968
+96000 Bass / Wide peak=0.496901
+96000 Bass / Pluck peak=0.490525
+96000 Bass / Torn Speaker peak=0.516352
+96000 Bass / Acid Grind peak=0.512519
+96000 Bass / Fuzz Octave peak=0.514772
+96000 Bass / Metal Bass peak=0.507377
+96000 Bass / Wrecked Pluck peak=0.508181
+96000 Vocals / Lift peak=0.516429
+96000 Vocals / Intimate peak=0.426292
+96000 Vocals / Airy peak=0.405169
+96000 Vocals / Double peak=0.516267
+96000 Vocals / Radio peak=0.504746
+96000 Vocals / Megaphone peak=0.502986
+96000 Vocals / Razor Double peak=0.51774
+96000 Vocals / Octave Dirt peak=0.511234
+96000 Vocals / Burnt Radio peak=0.48504
+96000 Vocals / Ghost Drive peak=0.510812
+96000 Synths / Shine peak=0.345199
+96000 Synths / Wide peak=0.359755
+96000 Synths / Plush peak=0.314045
+96000 Synths / Retro peak=0.514233
+96000 Synths / Motion peak=0.496046
+96000 Synths / Circuit Melt peak=0.518441
+96000 Synths / Broken Arcade peak=0.503768
+96000 Synths / Fuzz Cloud peak=0.516174
+96000 Synths / Acid Storm peak=0.461622
+96000 Synths / Digital Fire peak=0.51555
+Peak audit maximum=0.613801
+PASS: all 50 presets and mono/stereo transitions use the new controls, finite processing and output headroom; maximum=0.613801
+<end of output>
+Test time =  25.41 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryHeadroom" end time: Nov 11 12:33 Pacific Standard Time
+"FactoryHeadroom" time elapsed: 00:00:25
+----------------------------------------------------------
+
+3/4 Testing: DSP
+3/4 Test: DSP
+Command: "C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12/Release/DspTests.exe"
+Directory: C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12
+"DSP" start time: Nov 11 12:33 Pacific Standard Time
+Output:
+----------------------------------------------------------
+PASS: mono/stereo 44.1-192k, neutral/mix/bypass, effects, quiet-hit SUB frequency/energy, beat/ms delay timing, routing, silence, finite output, block independence, smoothing
+<end of output>
+Test time =  13.97 sec
+----------------------------------------------------------
+Test Passed.
+"DSP" end time: Nov 11 12:33 Pacific Standard Time
+"DSP" time elapsed: 00:00:13
+----------------------------------------------------------
+
+4/4 Testing: PluginState
+4/4 Test: PluginState
+Command: "C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12/PluginTests_artefacts/Release/PluginTests.exe"
+Directory: C:/Users/omggr/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an/work/build-v12
+"PluginState" start time: Nov 11 12:33 Pacific Standard Time
+Output:
+----------------------------------------------------------
+PASS: state/orders, invalid data, pitch snapping, delay defaults, neutral processor, real spectrum tone, sprite editor, no hold boxes, dragging, numeric SAT and S/H hitboxes, note scrolling, no knob tooltips, shared time row, linked menu mix, scrolling history, original main art, compact units, menu alphabet/slider assets, cropped hover bubbles, no baseline, bipolar width, gain ranges and title component
+<end of output>
+Test time =   3.44 sec
+----------------------------------------------------------
+Test Passed.
+"PluginState" end time: Nov 11 12:33 Pacific Standard Time
+"PluginState" time elapsed: 00:00:03
+----------------------------------------------------------
+
+End testing: Nov 11 12:33 Pacific Standard Time
